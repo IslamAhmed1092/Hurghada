@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Hurghada</string>
+    <string name="tab_beaches">Beaches</string>
+    <string name="tab_restaurants">Restaurants</string>
+    <string name="tab_hotels">Hotels</string>
+    <string name="tab_activities">Activities</string>
+    <string name="sofra">Sofra</string>
+    <string name="nino">Nino\'s Restaurant</string>
+    <string name="makai_tukai">Makai Tukai</string>
+    <string name="the_grill">The Grill Restaurant</string>
+    <string name="the_greek"><![CDATA[The Greek Bar & Restaurant]]></string>
+    <string name="moby_dick">Moby Dick</string>
+    <string name="the_moon">The Moon Restaurant</string>
+    <string name="kahramana">Kahramana</string>
+    <string name="chuchi">Chuchichaschtli</string>
+    <string name="grill_and_chill"><![CDATA[Grill & Chill Restaurant]]></string>
+
+    <string name="sofra_type">Mediterranean</string>
+    <string name="nino_type">Italian</string>
+    <string name="makai_type">Chinese</string>
+    <string name="the_grill_type">Barbecue</string>
+    <string name="the_greek_type">Seafood</string>
+    <string name="moby_dick_type">Egyptian</string>
+    <string name="the_moon_type">Lebanese</string>
+    <string name="kahramana_type">Indian</string>
+    <string name="chuchi_type">Swiss</string>
+    <string name="grill_chill_type">Grill, Egyptian</string>
+    <string name="stars">Stars</string>
+
+    <string name="elgouna_abu_tig">El Gouna Abu Tig Marina</string>
+    <string name="labranda_royal">Labranda Royal Makadi</string>
+    <string name="jaz_makadi">Jaz Makadi Oasis Resorte</string>
+    <string name="hurghada_dreams">Hurghada Dreams</string>
+    <string name="solymar_ivory">Solymar Ivory Suites</string>
+    <string name="marriott_beach_resort">Hurghada Marriott Beach Resort</string>
+    <string name="minamark_beach_resort">Minamark Beach Resort</string>
+    <string name="labranda_club">Labranda Club Paradisio</string>
+    <string name="baron_palace">Baron Palace Sahl Hasheesh</string>
+    <string name="ibrote_makadi">Iberotel Makadi Beach</string>
+
+    <string name="elsawaky_beach">El Sawaky Beach</string>
+    <string name="elsawaky_beach_description">One of the most delightful beaches in Hurghada in the red sea is the Sawaky beach</string>
+    <string name="orange_beach">Orange Beach</string>
+    <string name="orange_beach_description">A wonderful place that combines the wild nature of the eastern Sahara with the everlasting allure of the red sea</string>
+    <string name="sahl_hasheesh_beach">Sahl Hasheesh Beach</string>
+    <string name="sahl_hasheesh_beach_description">Contains an amazing geographic nature and magical landscapes filled with the best ways of entertainment</string>
+    <string name="makadi_bay">Makadi Bay</string>
+    <string name="makadi_bay_description">The marvelous Makadi bay nests between the charming eastern desert and the inclusive sea</string>
+    <string name="soma_bay">Soma Bay</string>
+    <string name="soma_bay_description">It is surrounded by clear waters, a panoramic view of the Desert Mountains and white sandy beaches</string>
+    <string name="gifton_island">Gifton Island</string>
+    <string name="gifton_island_description">The Island is quite tropical and the best location to get that Caribbean island vacation feel</string>
+    <string name="old_vic_beach">Old Vic Beach</string>
+    <string name="old_vic_beach_description">A majestic beach across the red sea that contains the highest levels of tranquility and relaxation</string>
+    <string name="mahmya_beach">Mahmya Beach</string>
+    <string name="mahmya_beach_description">Holds the largest group of protected coral reefs and rare marine inhabitants</string>
+    <string name="the_smokery_beach">The Smokery Beach</string>
+    <string name="the_smokery_beach_description">Famous for being the land of luxury and tropical excitement which offers the most incredible vacation</string>
+    <string name="public_beach_number_9">Public Beach Number 9</string>
+    <string name="public_beach_number_9_description">Offers a wonderful recreational stay and the chance to have a great time and sail with its magical waters</string>
+
+    <string name="safari">Desert Safari Tour</string>
+    <string name="snorkeling">Red Sea Snorkeling</string>
+    <string name="scuba_diving">Scuba Diving</string>
+    <string name="camel_ride">Camel Ride Trip</string>
+    <string name="parasailing">Parasailing Adventure</string>
+    <string name="dolphin_show">Dolphin Show</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+
+</resources>

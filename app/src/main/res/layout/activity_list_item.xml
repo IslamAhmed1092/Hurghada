@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="@dimen/activityCardWidth"
+    android:layout_height="@dimen/activityCardHeight"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_margin="16dp"
+    app:cardBackgroundColor="@android:color/white">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+        <ImageView
+            android:id="@+id/activity_image"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="4"
+            android:scaleType="fitXY"
+            app:srcCompat="@drawable/ic_photo_24dp" />
+
+
+
+        <TextView
+            android:id="@+id/activity"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:layout_margin="8dp"
+            android:gravity="center"
+            android:textAppearance="?android:textAppearanceSmall"
+            tools:text="Some text to fell the whole view  "
+            android:textColor="@android:color/black" />
+
+    </LinearLayout>
+
+
+</androidx.cardview.widget.CardView>
+
